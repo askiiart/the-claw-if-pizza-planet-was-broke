@@ -2,9 +2,8 @@
 
 ## Goals
 
-- Cheap while remaining as large as possible
-- Easy to solder PCB (not ideal to need a pick and place machine to assemble the pick and place machine)
-  - Willing to compromise a little, e.g. DRV8825 is easier to use but harder to solder than some alternatives. Still TSSOP at least.
+- Relatively cheap while remaining as large as possible
+- Easily moddable
 
 ## parts
 
@@ -44,5 +43,3 @@ easyeda2kicad like this:
 ```sh
 easyeda2kicad --full --lcsc_id=C265342 --output ./easyeda
 ```
-
-(in the libs folder)
