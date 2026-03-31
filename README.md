@@ -10,12 +10,14 @@
 - Build plate - 500x500mm
   - [Heated base](https://www.amazon.com/dp/B0DLVDGVFF)
   - Got FR4 sheet for build surface from Eagle Circuits
-- [filament extruder bits (not hotend)](https://www.aliexpress.us/item/3256805037230239.html)
+- [filament extruder bits (not hotend)](https://www.aliexpress.us/item/3256806663498456.html)
 - hotend: E3D V6?
   - [hotend and heater](https://www.aliexpress.us/item/3256809886017151.html)
   - [bowden tube](https://www.aliexpress.us/item/2251832704009739.html)
 - 24V 25A 3+ rail PSU
-- [2020 V-slot rails]
+- [2020 V-slot rails](https://www.amazon.com/European-Standard-Anodized-Aluminum-Extrusion/dp/B099MPZ9K5)
+  - Get 10x 1220mm and cut to length, much cheaper.
+- [Openbuilds 2020 gantry plate](https://www.aliexpress.us/item/3256808602761907.html)
 
 ### mainboard and stuff
 
